@@ -114,18 +114,6 @@ Upload 2–3 previous year science/English papers:
 - 🤖 Trains a model to predict likely repeats.
 - 💬 Lets you pick a question and get an AI-generated answer.
 
----
-
-## 📚 Mock Test Paper Generator (Extension)
-
-You can also add support to generate **7 full mock papers** each for:
-
-- **Science** – 30 questions per paper
-- **English** – 30 questions per paper
-
-These can be randomly selected from extracted unique questions or prioritized based on frequency (repeated across years).
-
-✅ Coming Soon in v2.
 
 ---
 
